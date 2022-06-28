@@ -3,6 +3,7 @@ This web app fetches news based on categories from news api (https://newsapi.org
 ---
 
 This web app was created using React **Class** based components and Tailwind CSS.
+(To see the same project made using Function based components visit: https://github.com/Ankan-Basu/news-app-functionbased)
 
 
 I cannot host this web app because it was created using free version of news api which works only on localhost. So if you want to check out this app, you need to clone the repository and run it on your machine.
