@@ -9,10 +9,10 @@ I cannot host this web app because it was created using free version of news api
 ___
 
 ## **Preview**
-![Desktop](https://drive.google.com/file/d/1-7TQ-cM4gV4N-E93TDb4q30mlzK5qV4I/view?usp=sharing)
+https://drive.google.com/file/d/1-7TQ-cM4gV4N-E93TDb4q30mlzK5qV4I/view?usp=sharing
 
 
-![Mobile](https://drive.google.com/file/d/1KhFlTGhiPxKG_T4MAQ4TitkP0d68pKff/view?usp=sharing)
+https://drive.google.com/file/d/1KhFlTGhiPxKG_T4MAQ4TitkP0d68pKff/view?usp=sharing
 
 ___
 
