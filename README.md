@@ -9,10 +9,12 @@ I cannot host this web app because it was created using free version of news api
 ___
 
 ## **Preview**
-https://drive.google.com/file/d/1-7TQ-cM4gV4N-E93TDb4q30mlzK5qV4I/view?usp=sharing
+
+https://user-images.githubusercontent.com/60862627/176181058-e6d415b2-4b96-4fb9-b122-ae226a620844.mp4
 
 
-https://drive.google.com/file/d/1KhFlTGhiPxKG_T4MAQ4TitkP0d68pKff/view?usp=sharing
+https://user-images.githubusercontent.com/60862627/176179685-53283b31-2e79-422c-a550-ddcaa4abee97.mp4
+
 
 ___
 
@@ -20,6 +22,11 @@ ___
 
 - Clone the repository
 - Inside the directory run
+- In the project directory create a file named '.env.local'.
+Inside it write
+### REACT_APP_API_KEY="api-key"
+- Replace -api-key- with your news api key. You can get api key by registering here (https://newsapi.org/)
+ 
  ```bash
 npm install
 npm start
