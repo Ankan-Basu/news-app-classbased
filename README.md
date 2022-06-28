@@ -10,11 +10,9 @@ ___
 
 ## **Preview**
 
-https://user-images.githubusercontent.com/60862627/176181058-e6d415b2-4b96-4fb9-b122-ae226a620844.mp4
+https://user-images.githubusercontent.com/60862627/176181274-25a08cbc-c8b5-47de-961d-e3e1e9642735.mp4
 
-
-https://user-images.githubusercontent.com/60862627/176179685-53283b31-2e79-422c-a550-ddcaa4abee97.mp4
-
+https://user-images.githubusercontent.com/60862627/176181330-b71bed34-3c91-4e10-ac11-f53dc28294ab.mp4
 
 ___
 
@@ -24,7 +22,7 @@ ___
 - Inside the directory run
 - In the project directory create a file named '.env.local'.
 Inside it write
-### REACT_APP_API_KEY="api-key"
+###### REACT_APP_API_KEY="api-key"
 - Replace -api-key- with your news api key. You can get api key by registering here (https://newsapi.org/)
  
  ```bash
